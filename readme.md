@@ -1,6 +1,6 @@
 # Roman To Number
 
-This is my solution to a problem posted on [LeetCode](https://leetcode.com/yakowa).leetcode
+This is my solution to a problem posted on [LeetCode](https://leetcode.com/yakowa).
 
 ## Info from leetcode
 
